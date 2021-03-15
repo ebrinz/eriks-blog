@@ -1,0 +1,38 @@
+{
+  "name": "eriks-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.0.4",
+    "gray-matter": "^4.0.2",
+    "next": "10.0.0",
+    "next-fonts": "^1.5.1",
+    "postcss": "^8.1.14",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.0.1",
+    "tailwindcss-pseudo-elements": "^1.5.1"
+  },
+  "description": "This blog template is meant for an easy set-up blog for using markdown files to make posts Each file should have metadata at the top like the following",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
+}

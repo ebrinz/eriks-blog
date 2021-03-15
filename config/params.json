@@ -1,0 +1,45 @@
+{
+
+    "title": "/dev/null",
+    "titleFont": "/fonts/aliens_and_cows/aliens_and_cows.ttf",
+    "titleSize": "60",
+    "mobileTitleSize": "40",
+
+    "links": [
+        {"icon": "github", "url": "https://github.com/ebrinz"},
+        {"icon": "linkedin", "url": "https://www.linkedin.com/in/erikbrinsmead"},
+        {"icon": "soundcloud", "url": "https://soundcloud.com/gr0knar"}
+    ],
+
+    "colors": {
+
+        "topbarBackgroundColor": "#ffffff",
+        "topbarTitleColor": "#211a3d",
+        "topbarIconColor": "#211a3d",
+        
+        "topBarMenuTagColor": "#211a3d",
+        "topbarLinkIconColor": "#211a3d",
+        "topbarLinkIconRolloverColor": "#310645",
+
+        "topbarRingColor": "#310645",
+        "topbarShadowColor": "#0000001C",
+        "topbarShadowSize": "25",
+
+        "bodyBackgroundColor": "#ffffff",
+
+        "menuTagColor": "#211a3d",
+        "menuTagUnderbarColorStart": "#ffffff",
+        "menuTagUnderbarColorEnd": "#211a3d",
+
+        "cardTopBackgroundColor": "#310645",
+        "cardBodyBackgroundColor": "#ffffff",
+        "cardTitleColor": "#ffffff",
+        "cardRingColor": "#310645",
+        "cardShadowColor": "#00000033",
+        "cardShadowSize": "30",
+        "cardShadowHoverColor": "#0000004d",
+        "cardShadowHoverSize": "50"
+
+    }
+
+}
