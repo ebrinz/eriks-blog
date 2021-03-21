@@ -13,6 +13,6 @@ First project with Access Virus synth. Really flexed the arpeggiator in knob twi
 The sample in the background is from a 70s group Chansol.
 the first few bars from this track...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCscWJraYHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/UCscWJraYHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Apparently i got the band name wrong in the song's title.
