@@ -10,6 +10,6 @@ tag: songs
 Worked this sketch together when covid 19 lockdown first started.
 Sampled a break from Krunghbin and and intro from Procul Harum.
 
-<iframe width="100%" padding-top=75% src="https://www.youtube.com/embed/HQ_iIrzo5t8?start=148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/HQ_iIrzo5t8?start=148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" padding-top=75% src="https://www.youtube.com/embed/EVWx3uqICpk?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/EVWx3uqICpk?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
