@@ -8,7 +8,7 @@ tag: ideas
 After learning a bit about the Linux environment recently, one thing kept popping up that caught my eye. What are daemons, and why are they called daemons? It turns out it refers to a theory on information developed by James Maxwell in 1867.
 
 
-[a link](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
+[wikipedia article](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
 
 
 Here's a cool youtube on the topic:
