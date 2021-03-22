@@ -12,6 +12,8 @@ With Netlify, every time you push a new md file to your repo, it redeploys the s
 
 Clone it, add some content using the example data as a template.
 
+Netlify is just desiged to work well with the framework this blog is built in, Next.js.
+
 Netlify is so free for some reason, you dont even have to put your credit card info in to get your new blog hosted!
 
 
