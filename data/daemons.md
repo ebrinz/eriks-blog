@@ -1,11 +1,9 @@
 ---
-title: Some thought on the conception of daemons
+title: Information theory and cosmogony
 description: The third post is the least memorable.
 updatedAt: '2020-04-16'
 tag: ideas
 ---
-
-### Information theory and cosmogony
 
 After learning a bit about the Linux environment recently, one thing kept popping up that caught my eye. What are daemons, and why are they called daemons? It turns out it refers to a theory on information developed by James Maxwell in 1867.
 
