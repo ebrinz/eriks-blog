@@ -8,7 +8,7 @@ tag: ideas
 After learning a bit about the Linux environment recently, one thing kept popping up that caught my eye. What are daemons, and why are they called daemons? It turns out it refers to a theory on information developed by James Maxwell in 1867.
 
 
-<link href="https://en.wikipedia.org/wiki/Maxwell%27s_demon">
+[a link](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
 
 
 Here's a cool youtube on the topic:
@@ -20,7 +20,7 @@ Given power, the system begins with the bootloader, which turns on the kernal, w
 
 There's a point of conception when powering on the system. From nothing there was something.
 
-There's primordial stage during bootloading. Many creation myths have a primordial stage where the greater gods give birth to the sun and moon, etcc... or the kernal.
+There's primordial stage during bootloading. Many creation myths have a primordial stage where the greater gods give birth to the sun and moon... or the kernal.
 
 The kernal is this sort of prime god figure that births the daemons.
 
