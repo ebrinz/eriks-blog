@@ -5,8 +5,14 @@ updatedAt: '1970-01-01'
 tag: about
 ---
 
-Creative developer who likes making art and stuff.
+This blog is a venue for sharing creative streams.
 
-I've set up this blog up as a showcase of creative project and ideas.
+Pushing content to the web before getting caught in the details.
 
-If you wish to reach out add me on LinkedIn and send me a message.
+[perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
+Just get some rough hewn ideas up to share.
+
+80% complete is good enough to compete.
+
+And, anything is better than nothing.
