@@ -13,6 +13,4 @@ Pushing content to the web before getting caught in the details.
 
 Just get some rough hewn ideas up to share.
 
-80% complete is good enough to compete.
-
 And, anything is better than nothing.
