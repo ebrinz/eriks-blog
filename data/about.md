@@ -1,5 +1,5 @@
 ---
-title: where am i
+title: greetings
 description: The first post is the least memorable.
 updatedAt: '1970-01-01'
 tag: about
