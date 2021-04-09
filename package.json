@@ -9,16 +9,16 @@
     "netlify": "next build && next export"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-brands-svg-icons": "^5.15.1",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
     "@tailwindcss/typography": "^0.3.1",
-    "autoprefixer": "^10.0.4",
+    "autoprefixer": "^10.2.5",
     "gray-matter": "^4.0.2",
-    "next": "10.0.0",
+    "next": "^10.1.3",
     "next-fonts": "^1.5.1",
-    "postcss": "^8.1.14",
+    "postcss": "^8.2.9",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-markdown": "^5.0.3"
@@ -26,7 +26,7 @@
   "devDependencies": {
     "@svgr/webpack": "^5.5.0",
     "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^2.0.1",
+    "tailwindcss": "^2.1.1",
     "tailwindcss-pseudo-elements": "^1.5.1"
   },
   "description": "This blog template is meant for an easy set-up blog for using markdown files to make posts Each file should have metadata at the top like the following",
