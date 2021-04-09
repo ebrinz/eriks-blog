@@ -1,5 +1,5 @@
 ---
-title: self-portrait April '21  ..expand it-->
+title: self-portrait
 description: made in procreate
 updatedAt: '2021-04-16'
 tag: paint
