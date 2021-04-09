@@ -5,7 +5,7 @@ updatedAt: '2021-04-16'
 tag: paint
 ---
 
-<img width='100%' src="../public/me.jpg">
+![self-portrait 04/21](../public/mee.png)
 
 First attempt at digital art with an iPad and Apple Pencil using Procreate.
 
