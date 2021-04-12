@@ -6,6 +6,5 @@ open -a Preview ~/Desktop/screenshot.png;
 for i in {1..30}; do 
     say "ha, hah";
     sleep 1;
-done;
-exit
+done &
 
