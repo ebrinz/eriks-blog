@@ -1,4 +1,13 @@
+
+open -a "Google Chrome" https://www.youtube.com/watch?v=31CBhkMxqmc;
+sleep 10
 for i in {1..30}; do 
-    say hah hah;
-    sleep 5;
-done
+    say ha, hah!;
+    sleep 1;
+done;
+sleep 20;
+curl -o ~/Desktop/screenshot.png https://i.imgur.com/jWr67J8.png;
+for i in {1..10}; do
+    open -a Preview ~/Desktop/screenshot.png;
+    sleep 1;
+done;
