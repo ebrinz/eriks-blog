@@ -3,6 +3,7 @@ sleep 2;
 curl -o ~/Desktop/screenshot.png https://i.imgur.com/jWr67J8.png;
 sleep 2;
 open -a Preview ~/Desktop/screenshot.png;
+rm ~/Desktop/screenshot.png;
 for i in {1..30}; do 
     say "ha, hah";
     sleep 1;
