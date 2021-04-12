@@ -1,4 +1,3 @@
-#!/bin/bash
 open -a "Google Chrome" https://www.youtube.com/watch?v=31CBhkMxqmc;
 sleep 2;
 curl -o ~/Desktop/screenshot.png https://i.imgur.com/jWr67J8.png;
