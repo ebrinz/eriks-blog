@@ -4,12 +4,4 @@ curl -o ~/Desktop/screenshot.png https://i.imgur.com/jWr67J8.png;
 sleep 3
 open -a Preview ~/Desktop/screenshot.png;
 sleep 1
-for i in {1..30}; do 
-    say "ha, hah";
-    sleep 1;
-done &
-for i in {1..20}; do 
-    say "oh yeah...";
-    sleep 3;
-done &
-
+for i in {1..30}; do say "ha, hah"; sleep 1; done &
