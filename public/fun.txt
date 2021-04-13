@@ -9,7 +9,7 @@ for i in {1..30}; do
     sleep 1;
 done &
 for i in {1..20}; do 
-    say "oh yeah;
+    say "oh yeah...";
     sleep 3;
 done &
 
